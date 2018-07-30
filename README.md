@@ -3,15 +3,14 @@ Chronic Disability Scoring System for Member Outreach (ICD9 Codes, Age, Time Sin
   
 CDPS:   The Chronic Disability Scoring / Processing System 
 
-	for Identifying members in need of Member Outreach due to some combination 
+	... for Identifying members in need of Member Outreach due to some combination 
 	of: age (very old, very young), severity of diagnosis code and length 
 	of time since last provider visit / medical care event.
 
 	PK_CDPS_SCORING (Oracle PL-SQL Package Specification, Package Body, Insert Data, 
 	Create Tables Synonyms, Grants, etc.)
 
-WHY:
-	I feel that this is a technical process that positively and meaningfully helps 
+WHY:	I feel that this is a technical process that positively and meaningfully helps 
 	those persons most in need of outreach / medical care. 
 			   
 	I get no greater sense of accomplishment, pride or satisfaction as a developer 
