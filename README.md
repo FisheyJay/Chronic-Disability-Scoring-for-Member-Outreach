@@ -62,9 +62,3 @@ Package Specification and Package Body which I wrote in it's entirety for a
 large Health Insurance Provider. I have removed / replaced all names, variable 
 names, server names, user names, table names, etc so as to ensure the data 
 privacy of my former client.
-
-   REVISIONS:
-   Ver        Date        Author           Description
-   ---------  ----------  ---------------  ------------------------------------
-   1.0        int. blank   John Fisher      
-   
