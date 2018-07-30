@@ -35,7 +35,7 @@ weeks. I eliminated the onerous ODBC connection he had been connecting
 to Oracle with and eliminated that network traffic as well.
 
 To say that his MS Access process was slow does a disservice to slow 
-running processes eveywhere. I mean, this thing was a w f u l.
+running processes eveywhere. I mean, this thing was a--w--f--u--l.
 
 This process combines age, certain ICD9 Illness codes, and the 
 length of time it has been since the member was last seen by a 
