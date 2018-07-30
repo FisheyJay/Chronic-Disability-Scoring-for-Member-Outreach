@@ -17,9 +17,9 @@ WHY:	I feel that this is a technical process that positively and meaningfully he
 	than when my code helps people in a real and meaningful way. That said ...
 
 	If another technologist such as myself anywhere in the world can take this code 
-	and emulate it to server their needs and similarly have a positive effect on 
-	sick and/or very young or aging persons anywhere, if it helps just one person, 
-	then it is wonderful! ...and the time I spent posting this was time very well 
+	and emulate it and similarly have a positive effect on sick persons not reciving 
+	the care they desperately require,... if it helps just one person, 
+	then it is wonderful! ... and the time I spent posting this was time very well 
 	spent.
 
 PURPOSE:
@@ -27,9 +27,9 @@ PURPOSE:
 	This is a Chronic Disability Scoring System that is designed to 
 	identify the sickest or most ill members of the health plan for 
 	Proactive Outreach purposes. A Senior Business Analyst in an 
-	Actuarial Department business-side (outside I.T.) had created a 
-	process like in MS Access which was terribly inefficient, painfully 
-	slow, taking two days to produce the information he needed.
+	Actuarial Department, business-side (i.e., outside I.T.) had created a 
+	process to achieve same results in MS Access which was terribly inefficient, 
+	& painfully slow, taking two days to produce the information he required.
 
 	I created this process in it's entirety in the Oracle Data Warehouse 
 	for him, having gathered his requirements over many sessions and 
